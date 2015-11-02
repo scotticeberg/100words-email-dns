@@ -4,4 +4,10 @@ ITC 102
 
 On Email and DNS
 
-	I love email, I use it all the time. I hate talking on the phone, and generally insist that my communications be in writing. I have many reasons for this that I wont go into here. Some interesting things to note is that our emails are not private. Many entities can look at our emails, from government, to the email service provider. After six months all emails are considerd public domain by law in the United State. DNS helps web surfers find websites. Sometimes it doesnt work well. One work around to this is to directly type in the websties IP address. This doesnt always work. The website has to specifically allow this method of access. DNS spoofing is a method hackers use to fool a web surfer into thinking the website being accessed is legitimate, when in fact it is a website created by the hackers.
+	I love email, I use it all the time. I hate talking on the phone, and generally insist that my communications be in 
+	writing. I have many reasons for this that I wont go into here. Some interesting things to note is that our emails 
+	are not private. Many entities can look at our emails, from government, to the email service provider. After six months 
+	all emails are considerd public domain by law in the United State. DNS helps web surfers find websites. Sometimes it 
+	doesnt work well. One work around to this is to directly type in the websties IP address. This doesnt always work. 
+	The website has to specifically allow this method of access. DNS spoofing is a method hackers use to fool a web surfer
+	into thinking the website being accessed is legitimate, when in fact it is a website created by the hackers.
